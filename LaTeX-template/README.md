@@ -2,7 +2,7 @@
 
 LaTeX template of the thesis submitted for the degree of Doctor of Philosophy by Bingjun Wang, Department of Physics, University of Oxford, UK, Trinity 2021.
 
-Notes and comments are given as many as possible to facilitate better understanding of the code.
+Notes and comments are given as many as possible in both English and Chinese to facilitate better understanding of the code.
 
 These files are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License: https://creativecommons.org/licenses/by-nc-nd/4.0/.
 
